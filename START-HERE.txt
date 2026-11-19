@@ -1,0 +1,21 @@
+MENUWISE 2.0 — START HERE
+
+Online (private): https://menuwise-restaurant-decisions.humble-field-3507.chatgpt.site
+
+Offline:
+1. If this is a ZIP, extract it first.
+2. Double-click MenuWise.html.
+3. Choose EN or 中文, then Explore the sample / 体验示例餐厅.
+
+Success: monthly revenue is ¥107,900 and operating profit is ¥30,490.
+No installation, terminal commands, account or internet connection is required offline.
+
+Your data: Data & settings / 数据与设置 → Start a new restaurant / 新建餐厅.
+Start with dish name, price, variable cost and monthly portions. Add advanced
+operational details when needed. CSV/Excel import includes mapping and preview.
+
+Reports: Save decision / 保存决策 → Decision history / 决策历史 →
+Review & report / 复盘与报告 → Open report / 查看报告 → Print / Save PDF.
+
+Export a JSON backup regularly. Data stays in this browser and is not synced.
+Read README.md for examples, formulas, limitations and screenshots.
